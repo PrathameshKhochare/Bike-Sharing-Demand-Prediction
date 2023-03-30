@@ -104,5 +104,11 @@ Most of the bike rentals have been made when there is high visibility.
 * Due to less no. of data in the dataset, the training R2 score is around 98% and the test R2 score is 99%. Once we get more data we can retrain our algorithm for better performance.
 * I have used Eli5 for Model Explainability.
 
+**For further information you can check the google colab file added in the repository.
 
+**If you find any mistakes or have any suggestions for me, please reach out to me, all the criticism is heartly welcomed.
+
+**You can also reach out to me for project collaborations.
+
+**My Email Id - khochareprathamesh10@gmail.com
 
