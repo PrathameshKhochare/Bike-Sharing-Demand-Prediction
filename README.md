@@ -33,10 +33,10 @@ EDA
 1. Know Your Data
 2. Understanding your Data
 3. Data Wrangling
-  Handling null values
-  Handling duplicate values
-  Removing Outliers
-  Feature engineering
+  * Handling null values
+  * Handling duplicate values
+  * Removing Outliers
+  * Feature engineering
 
 4. Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables
 5. Hypothesis Testing
