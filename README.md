@@ -41,31 +41,31 @@ EDA
 4. Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables
 5. Hypothesis Testing
 6. Feature encoding
-    Outlier treatment
-    Linearity check
-    Removing Multicollinear
-    Categorical Encoding
-    Data Transformation
+    * Outlier treatment
+    * Linearity check
+    * Removing Multicollinear
+    * Categorical Encoding
+    * Data Transformation
 7. Model Building
-    Train Test Split
-    Scaling Data
-    Model Training
-    Model Implementation
+    * Train Test Split
+    * Scaling Data
+    * Model Training
+    * Model Implementation
 8. Model Result 
-    Linear models-
-     Linear Regression
-     Ridge Regression
-     Lasso Regression
-     ElasticNet
-    Tree based models-
-     Decision Tree
-     Random forest regression
-     AdaBoost
-     XGBoost
-     LGBoost
-   Other
-     KNN
-     SVM
+    * Linear models-
+     * Linear Regression
+     * Ridge Regression
+     * Lasso Regression
+     * ElasticNet
+   * Tree based models-
+     * Decision Tree
+     * Random forest regression
+     * AdaBoost
+     * XGBoost
+     * LGBoost
+   * Other
+     * KNN
+     * SVM
 9. Model explainability
 10. Conclusion
 
