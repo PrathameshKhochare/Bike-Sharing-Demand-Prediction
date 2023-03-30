@@ -30,44 +30,44 @@ Attribute Information:
 Initial preparations(Loading the dependencies and the data)
 
 EDA
-1.Know Your Data
-2.Understanding your Data
-3.Data Wrangling
+1. Know Your Data
+2. Understanding your Data
+3. Data Wrangling
   Handling null values
   Handling duplicate values
   Removing Outliers
   Feature engineering
 
-4.Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables
-5.Hypothesis Testing
-6.Feature encoding
-  Outlier treatment
-  Linearity check
-  Removing Multicollinear
-  Categorical Encoding
-  Data Transformation
-7.  Model Building
-  Train Test Split
-  Scaling Data
-  Model Training
-  Model Implementation
-8.Model Result 
-  Linear models-
-    Linear Regression
-    Ridge Regression
-    Lasso Regression
-    ElasticNet
- Tree based models-
-    Decision Tree
-    Random forest regression
-    AdaBoost
-    XGBoost
-    LGBoost
- Other
-    KNN
-    SVM
-9.Model explainability
-10.Conclusion
+4. Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables
+5. Hypothesis Testing
+6. Feature encoding
+    Outlier treatment
+    Linearity check
+    Removing Multicollinear
+    Categorical Encoding
+    Data Transformation
+7. Model Building
+    Train Test Split
+    Scaling Data
+    Model Training
+    Model Implementation
+8. Model Result 
+    Linear models-
+     Linear Regression
+     Ridge Regression
+     Lasso Regression
+     ElasticNet
+    Tree based models-
+     Decision Tree
+     Random forest regression
+     AdaBoost
+     XGBoost
+     LGBoost
+   Other
+     KNN
+     SVM
+9. Model explainability
+10. Conclusion
 
 
 
