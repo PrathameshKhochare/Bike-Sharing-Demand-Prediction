@@ -99,6 +99,10 @@ Most of the bike rentals have been made when there is high visibility.
 * Rainfall - People prefer almost no or very less rainfall.
 * Snowfall - People prefer almost no or very less snowfall.
 
+**ML Model Insights:**
+* I have chosen the Light GBM model because it has the lowest RMSE value as well as the highest R2 score on the test data.
+* Due to less no. of data in the dataset, the training R2 score is around 98% and the test R2 score is 99%. Once we get more data we can retrain our algorithm for better performance.
+* I have used Eli5 for Model Explainability.
 
 
 
