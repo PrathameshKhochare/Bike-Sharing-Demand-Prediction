@@ -43,7 +43,7 @@ EDA
 6. Feature encoding
     * Outlier treatment
     * Linearity check
-    * Removing Multicollinear
+    * Removing Multicollinearity
     * Categorical Encoding
     * Data Transformation
 7. Model Building
@@ -69,6 +69,35 @@ EDA
 9. Model explainability
 10. Conclusion
 
+![image](https://user-images.githubusercontent.com/121234763/228838111-825a316d-39e7-4a6a-96ec-2ca3c7a01005.png)
+## Conclusion
+1. EDA insights:
+
+Most number of bikes are rented in the Summer season and the lowest in the winter season.
+Over 96% of the bikes are rented on days that are considered as No Holiday.
+Most number of bikes are rented in the temperature range of 15 degrees to 30 degrees.
+Most number of bikes are rented when there is no snowfall or rainfall.
+Majority of the bikes are rented for a humidity percentage range of 30 to 70.
+The highest number of bike rentals have been done in the 18th hour, i.e 6pm, and lowest in the 4th hour, i.e 4am.
+Most of the bike rentals have been made when there is high visibility.
+
+**Cateforical Features-**
+* Season - As we can see that summer has the highest number of bikes rented, 37%. This could be because of the vacation mood created in summer and also the increase in the number of tourists. Winter however is the season where the least number of bikes are rented, 8%.
+* Holiday - In the Holiday column, The demand is low during holidays, but in no holidays the demand is high, it may be because people use bikes to go to their work.
+* Fuctioning Day - If there is non Functioning Day then there is no demand
+* Week - Bike demand is High during Afternoon during Weekends.
+         While there is more demand during office hours in weekdays (7am to 9am  and 5pm to 8pm)
+* Month -Demand is low in November, December January & February, It is cold in these months and we have already seen in season column that demand is less in winters.**
+*Year -The demand was less in 2017 and higher in 2018.
+
+**Numerical Features-**
+* Temperature - As we can see that the most number of bikes rented are in the temperature range of 15 degrees to 30 degrees.
+* Humidity - As we can see that the majority of the bikes are rented for a humidity percentage range of 30 to 70.
+* Wind Speed - As we can see that higher bike rented count is for Wind speed between 0 to 5 m/s
+* Visibility - We can see that higher visibility is preffered by the customers.
+* Dew Point Temperature -The average number of bikes rented with dew point temperature increases steadily.
+* Rainfall - People prefer almost no or very less rainfall.
+* Snowfall - People prefer almost no or very less snowfall.
 
 
 
